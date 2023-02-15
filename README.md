@@ -1,2 +1,2 @@
 # Customer-Segmentation
-SplitCust aims to segment the customers into clusters based on their annual income and  spending score helping the company make decisions regarding marketing and product growth.
+SplitCust, aims to segment the customers into clusters based on their annual income and  spending score helping the company make decisions regarding marketing and product growth. It uses K Means clustering to split customers, and the optimal K value is found using the elbow method. The model is saved and a GUI is created using tkinter in python for the model to help make predictions in an easy and fast manner.
